@@ -5,3 +5,5 @@ Usage: /wake
 
   Content-Type: application/json
   {"mac_address": "00:11:22:33:44:55"}
+
+IFTTT has moved "Webhooks" function to PRO version. Now we cant use Google Assistant with IFTTT. IFTTT s*ck.
